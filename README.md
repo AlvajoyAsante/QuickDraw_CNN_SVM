@@ -1,3 +1,5 @@
+<img src="docs/header.png" alt="Model Architecture" title="doodles" width="100%" height="100%">
+
 # Google's QuickDraw Classification Analysis
 
 The goal of this project is to classify hand-drawn sketches from the [Quick, Draw! Dataset](https://quickdraw.withgoogle.com/data) into one of 345 categories. I explored two machine learning approaches:

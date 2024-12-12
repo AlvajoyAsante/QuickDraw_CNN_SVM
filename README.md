@@ -1,4 +1,4 @@
-# QuickDraw Classification Project
+# Google's QuickDraw Classification Analysis
 
 The goal of this project is to classify hand-drawn sketches from the [Quick, Draw! Dataset](https://quickdraw.withgoogle.com/data) into one of 345 categories. I explored two machine learning approaches:
 1. A Convolutional Neural Network (CNN) for deep learning-based image classification.

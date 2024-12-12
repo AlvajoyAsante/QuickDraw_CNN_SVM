@@ -11,16 +11,16 @@ Through this project, I aimed to compare the performance and efficiency of these
 The [Quick, Draw! Dataset](https://quickdraw.withgoogle.com/data) is a collection of over 50 million drawings across 345 categories, created by Google as part of their Quick, Draw! game. 
 - **When it was created**: The dataset was generated from user drawings during gameplay, which started in November 2016.
 - **How long it took**: It took several months to compile the dataset, thanks to the contributions of millions of players around the world.
-- **Format**: Each drawing is stored as vector data, which I converted into rasterized 28x28 grayscale images to make them compatible with the models in this project.
+- **Format**: Each drawing is stored as vector data, which I converted into rasterized 28x28 images to make them compatible with the models in this project.
 
-This dataset provided a rich and diverse source of training data for both the CNN and SVM models.
+This dataset provided a rich and diverse source of training data for both the CNN and SVM models with over 2 million images.
 
 
 ## Data Preprocessing
 
 To prepare the data for training, I followed these steps:
 - **Downloading**: I used the `quickdraw` library to access and download the dataset.
-- **Processing**: The raw data was converted into 28x28 grayscale images to standardize the input size.
+- **Processing**: The raw data was converted into 28x28 images to standardize the input size.
 - **Saving**: Processed images were saved in a structured directory format to make training and validation easier.
 
 ### Libraries I Used for Data Preprocessing

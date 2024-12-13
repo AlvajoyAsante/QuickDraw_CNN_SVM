@@ -31,6 +31,12 @@ To prepare the data for training, I followed these steps:
 - **`matplotlib`**: To visualize some of the preprocessed images for verification.
 
 
+### Model Evaluation
+|Convolutional Neural Network|Support Vector Machine|
+|---|---|
+|![cnn_conf](docs/cnn_conf.png)|![cnn_conf](docs/svm_conf.png)|
+|Accuracy:0.65|Accuracy:0.21|
+
 ## Acknowledgements
 
 - I want to thank **Google** for creating and sharing the Quick, Draw! Dataset, which made this project possible. You can learn more about it [here](https://quickdraw.withgoogle.com/data).

@@ -30,6 +30,7 @@ dataset/
 *.hdf5
 *.pkl
 *.joblib
+*.keras
 
 # Operating system files
 .DS_Store

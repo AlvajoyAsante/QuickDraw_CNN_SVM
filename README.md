@@ -31,11 +31,11 @@ To prepare the data for training, I followed these steps:
 - **`matplotlib`**: To visualize some of the preprocessed images for verification.
 
 
-### Model Evaluation
+## Model Evaluation
 |Convolutional Neural Network|Support Vector Machine|
 |---|---|
 |![cnn_conf](docs/cnn_conf.png)|![cnn_conf](docs/svm_conf.png)|
-|Accuracy:0.65|Accuracy:0.21|
+|Accuracy: N/a|Accuracy: 0.21|
 
 ## Acknowledgements
 

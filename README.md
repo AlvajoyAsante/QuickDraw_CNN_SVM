@@ -35,7 +35,7 @@ To prepare the data for training, I followed these steps:
 |Convolutional Neural Network|Support Vector Machine|
 |---|---|
 |![cnn_conf](docs/cnn_conf.png)|![cnn_conf](docs/svm_conf.png)|
-|Accuracy: N/a|Accuracy: 0.21|
+| Current Accuracy: 70% | Current Accuracy: 21% |
 
 ## Acknowledgements
 
